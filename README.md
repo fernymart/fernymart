@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <h1 align="center">Hi 👋, I'm Fernando Martínez</h1>
 <h3 align="center">SWE/CS student from Mexico</h3>
